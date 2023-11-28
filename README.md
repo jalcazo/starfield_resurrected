@@ -5,6 +5,8 @@
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
 | [Starfield Script Extender (SFSE).](https://www.nexusmods.com/starfield/mods/106) | Starfield Script Extender (SFSE) is a tool that adds additional scripting capabilities and functionality to the game. | Not needed. |
+| [Baka Achievement Enabler (SFSE)] | We want our achievements back! | Not needed. |
+| [Cleanfield] | No Epilepsy & Seizure Warning, No Bethesda Logo Video, No Bethesda Logo, No Message of the Day (Optional), No Starfield Logo (Optional), 30, 60 and 120 FPS, Vortex & MO2 Support |
 
 # GUI
 
