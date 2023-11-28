@@ -4,7 +4,7 @@
 
 | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|
-| [Starfield Script Extender (SFSE).](https://www.nexusmods.com/starfield/mods/106) | todo | Not needed. |
+| [Starfield Script Extender (SFSE).](https://www.nexusmods.com/starfield/mods/106) | Starfield Script Extender (SFSE) is a tool that adds additional scripting capabilities and functionality to the game. | Not needed. |
 
 # GUI
 
