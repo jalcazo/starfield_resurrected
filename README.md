@@ -12,7 +12,7 @@
 |----------|----------|----------|
 | [StarUI HUD](https://www.nexusmods.com/starfield/mods/3444) | StarUI HUD gives you full control over most HUD widgets and provides an updated loot list and better item cards with DPS and V/W. Resize, move, recolour or disable most of the HUD widgets. The loot list can show additional columns like V/W (sort-able) and show you the item card for hovered items! | [StarUI HUD ESPANOL (Castellano)](https://www.nexusmods.com/starfield/mods/3493) |
 | [StarUI Inventory.](https://www.nexusmods.com/starfield/mods/773) | StarUI Inventory improves all inventory screens for use on a PC. Compact display style. More details in sortable columns. Item tag icons. Category as left sidebar. Many quality of life features! | [StarUI Inventory ESPANOL (Castellano)](https://www.nexusmods.com/starfield/mods/2694) |
-| [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966) | todo | todo |
+| [StarUI Workbench](https://www.nexusmods.com/starfield/mods/4966) | StarUI Workbench improves all workbenches with a more compact layout, more information, sortable columns, new data columns, custom layout, recolouring, dark mode, Quality-of-Life features and more! | [StarUI Workbench ESPANOL (Castellano)](https://www.nexusmods.com/starfield/mods/4980) |
 | [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766) | todo | todo |
 | [StarUI Configurator]() | todo | todo |
 | [StarUI Ship Builder](https://www.nexusmods.com/starfield/mods/6402) |  todo | todo |
