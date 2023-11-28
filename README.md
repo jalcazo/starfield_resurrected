@@ -16,5 +16,5 @@
 | [StarUI Outpost](https://www.nexusmods.com/starfield/mods/5766) | todo | todo |
 | [StarUI Configurator]() | todo | todo |
 | [StarUI Ship Builder](https://www.nexusmods.com/starfield/mods/6402) |  todo | todo |
-| [Undelayed Menus.](https://www.nexusmods.com/starfield/mods/404) ([covered by MxR](https://www.youtube.com/watch?v=nfrWXMk2wIg)). |  todo | todo |
+| [Undelayed Menus.](https://www.nexusmods.com/starfield/mods/404) ([Reviewed here by MxR](https://www.youtube.com/watch?v=nfrWXMk2wIg)). |  This mod's goal is to significantly improve the user experience by enhancing the responsiveness and efficiency of in-game menus. | Not needed. |
 | [Enhanced Player Healthbar](https://www.nexusmods.com/starfield/mods/454)  | todo | todo |
