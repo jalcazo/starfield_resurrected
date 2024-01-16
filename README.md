@@ -1,9 +1,16 @@
 # starfield_resurrected
 
+<table>
+  <tr>
+    <td>This is my modlist for Starfield game. First playthrough 2023-2024. I hope you like it and enjoyed as much as I do/did. Please don't forget to endorse the mod authors you like on Nexus.</td><td>b</td>
+  </tr>
+</table>
+
+
 # Essential
 
 | Number | Mod | Brief explanation | Spanish translation |
-|----------|----------|----------|
+|----------|----------|----------|----------|
 | 1 | [Starfield Script Extender (SFSE).](https://www.nexusmods.com/starfield/mods/106) | Starfield Script Extender (SFSE) is a tool that adds additional scripting capabilities and functionality to the game. | Not needed. |
 | 2 | [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658) | We want our achievements back! | Not needed. |
 | 3 | [Cleanfield] | No Epilepsy & Seizure Warning, No Bethesda Logo Video, No Bethesda Logo, No Message of the Day (Optional), No Starfield Logo (Optional), 30, 60 and 120 FPS, Vortex & MO2 Support |
