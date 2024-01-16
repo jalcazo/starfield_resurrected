@@ -1,8 +1,8 @@
-# starfield_resurrected
+# Starfield Resurrected 2024
 
 <table>
   <tr>
-    <td>This is my modlist for Starfield game. First playthrough 2023-2024. I hope you like it and enjoyed as much as I do/did. Please don't forget to endorse the mod authors you like on Nexus.</td><td><img src="logo.png"></td>
+    <td>This is my modlist for Starfield game. First playthrough 2023-2024. I hope you like it and enjoy it as much as I do/did. Please don't forget to endorse the mod authors you like on Nexus.</td><td><img src="logo.png"></td>
   </tr>
 </table>
 
