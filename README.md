@@ -1,6 +1,6 @@
 # starfield_resurrected
 
-<table>
+<table border="0">
   <tr>
     <td>a</td><td>b</td>
   </tr>
