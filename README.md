@@ -1,8 +1,8 @@
 # starfield_resurrected
 
-<table border="0">
+<table>
   <tr>
-    <td>a</td><td>b</td>
+    <td>This is my modlist for Starfield game. First playthrough 2023-2024. I hope you like it and enjoyed as much as I do/did. Please don't forget to endorse the mod authors you like on Nexus.</td><td>b</td>
   </tr>
 </table>
 
