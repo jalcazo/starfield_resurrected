@@ -33,16 +33,20 @@
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [Outpost Showers.](https://www.nexusmods.com/starfield/mods/8140) | Adds 2 new showers for your outposts. | TODO. |
+| 1 | [DUNE - Paul Atreides Preset and Hair.](https://www.nexusmods.com/starfield/mods/11441) | Adds a new preset and hairstyle based on Paul Atreides look in DUNE. | TODO. |
 | Total mods in this category: | 1 | | |
 
+<img src="presets/paul1.jpg">
+<img src="presets/paul2.jpg">
 
 # Outposts
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [DUNE - Paul Atreides Preset and Hair.](https://www.nexusmods.com/starfield/mods/11441) | Adds a new preset and hairstyle based on Paul Atreides look in DUNE. | TODO. |
+| 1 | [Outpost Showers.](https://www.nexusmods.com/starfield/mods/8140) | Adds 2 new showers for your outposts. | TODO. |
 | Total mods in this category: | 1 | | |
+
+
 
 # Gadgets / enhancements
 
