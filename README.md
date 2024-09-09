@@ -29,11 +29,19 @@
 | [Undelayed Menus.](https://www.nexusmods.com/starfield/mods/404) ([Reviewed here by MxR](https://www.youtube.com/watch?v=nfrWXMk2wIg)). |  This mod's goal is to significantly improve the user experience by enhancing the responsiveness and efficiency of in-game menus. | Not needed. |
 | [Enhanced Player Healthbar](https://www.nexusmods.com/starfield/mods/454)  | This mod dynamically changes the player's health bar color at 75%, 50%, and 25%. | Not needed. |
 
-# Outposts
+# Presets
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Outpost Showers.](https://www.nexusmods.com/starfield/mods/8140) | Adds 2 new showers for your outposts. | TODO. |
+| Total mods in this category: | 1 | | |
+
+
+# Outposts
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [DUNE - Paul Atreides Preset and Hair.](https://www.nexusmods.com/starfield/mods/11441) | Adds a new preset and hairstyle based on Paul Atreides look in DUNE. | TODO. |
 | Total mods in this category: | 1 | | |
 
 # Gadgets / enhancements
