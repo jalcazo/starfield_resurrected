@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-# Essential bugfix
+# Essential annoying bugfix (for me)
 
 When I went into the TAB menu the game tends to lag a lot and drop FPS. It turns out that it scales to 4k when doing that. To fix that you must add this to StarfieldCustom.ini: (the last two lines are the key)
 
