@@ -10,10 +10,12 @@
 
 When I went into the TAB menu the game tends to lag a lot and drop FPS. It turns out that it scales to 4k when doing that. To fix that you must add this to StarfieldCustom.ini: (the last two lines are the key)
 
+[code]
 [Display]
 sSupportedResolutionsList=1280x720, 1280x800, 1366x768, 1440x900, 1600x900, 1680x1050, 1920x1200, 1920x1080, 2048x1536, 2560x1080, 2560x1440, 2560x1600, 2560x1920, 3440x1440, 3840x1600, 3840x2160, 5120x1440, 5120x2160, 5760x1080
 uPlatformDynamicResolutionAutoScaleWidth=1920 
 uPlatformDynamicResolutionAutoScaleHeight=1080
+[/code]
 
 # Essential
 
