@@ -22,9 +22,10 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Starfield Script Extender (SFSE).](https://www.nexusmods.com/starfield/mods/106) | Starfield Script Extender (SFSE) is a tool that adds additional scripting capabilities and functionality to the game. | Not needed. |
-| 2 | [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658) | We want our achievements back! | Not needed. |
-| 3 | [Cleanfield](https://www.nexusmods.com/starfield/mods/88?tab=description) | Gets rid of: Epilepsy & Seizure Warning, Bethesda Logo Video, Bethesda Logo, Message of the Day (optional), Starfield Logo (optional). 30, 60 and 120 FPS, Vortex & MO2 Support | Not needed. |
-| Total mods in this category: | 3 | | |
+| 2 | [Address Library for SFSE Plugins.](https://www.nexusmods.com/starfield/mods/3256) | Contains a database to make SFSE DLL plugins version independent easily. | Not needed. |
+| 3 | [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658) | We want our achievements back! | Not needed. |
+| 4 | [Cleanfield](https://www.nexusmods.com/starfield/mods/88?tab=description) | Gets rid of: Epilepsy & Seizure Warning, Bethesda Logo Video, Bethesda Logo, Message of the Day (optional), Starfield Logo (optional). 30, 60 and 120 FPS, Vortex & MO2 Support | Not needed. |
+| Total mods in this category: | 4 | | |
 
 # GUI
 
@@ -52,7 +53,12 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | 1 | [Outpost Showers.](https://www.nexusmods.com/starfield/mods/8140) | Adds 2 new showers for your outposts. | TODO. |
 | Total mods in this category: | 1 | | |
 
+# Audio
 
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Astral Lounge Club Music Psytrance Replacer - Tool Assisted Monkeys.](https://www.nexusmods.com/starfield/mods/5047) | Nice new music for Astral Lounge. | Not needed. |
+| Total mods in this category: | 1 | | |
 
 # Gadgets / enhancements
 
