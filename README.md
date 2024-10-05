@@ -43,11 +43,7 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
-| 1 | [DUNE - Paul Atreides Preset and Hair.](https://www.nexusmods.com/starfield/mods/11441) | Adds a new preset and hairstyle based on Paul Atreides look in DUNE. | TODO. |
 | Total mods in this category: | 1 | | |
-
-<img src="presets/paul1.jpg">
-<img src="presets/paul2.jpg">
 
 # Outposts
 
