@@ -26,7 +26,7 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | 3 | [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658) | We want our achievements back! | Not needed. |
 | 4 | [Cleanfield](https://www.nexusmods.com/starfield/mods/88?tab=description) | Gets rid of: Epilepsy & Seizure Warning, Bethesda Logo Video, Bethesda Logo, Message of the Day (optional), Starfield Logo (optional). 30, 60 and 120 FPS, Vortex & MO2 Support | Not needed. |
 | 5 | [Disk Cache Enabler.](https://www.nexusmods.com/starfield/mods/2245) | Use disk cache for IO for less disk activity. | Not needed. |
-| Total mods in this category: | 4 | | |
+| Total mods in this category: | 5 | | |
 
 # GUI
 
