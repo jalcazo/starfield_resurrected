@@ -25,6 +25,7 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | 2 | [Address Library for SFSE Plugins.](https://www.nexusmods.com/starfield/mods/3256) | Contains a database to make SFSE DLL plugins version independent easily. | Not needed. |
 | 3 | [Baka Achievement Enabler (SFSE)](https://www.nexusmods.com/starfield/mods/658) | We want our achievements back! | Not needed. |
 | 4 | [Cleanfield](https://www.nexusmods.com/starfield/mods/88?tab=description) | Gets rid of: Epilepsy & Seizure Warning, Bethesda Logo Video, Bethesda Logo, Message of the Day (optional), Starfield Logo (optional). 30, 60 and 120 FPS, Vortex & MO2 Support | Not needed. |
+| 5 | [Disk Cache Enabler.](https://www.nexusmods.com/starfield/mods/2245) | Use disk cache for IO for less disk activity. | Not needed. |
 | Total mods in this category: | 4 | | |
 
 # GUI
@@ -40,10 +41,11 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | [Undelayed Menus.](https://www.nexusmods.com/starfield/mods/404) ([Reviewed here by MxR](https://www.youtube.com/watch?v=nfrWXMk2wIg)). |  This mod's goal is to significantly improve the user experience by enhancing the responsiveness and efficiency of in-game menus. | Not needed. |
 | [Enhanced Player Healthbar](https://www.nexusmods.com/starfield/mods/454)  | This mod dynamically changes the player's health bar color at 75%, 50%, and 25%. | Not needed. |
 
-# Presets
+# Gameplay
 
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
+| [Auto Equip Unequip Spacesuit.](https://www.nexusmods.com/starfield/mods/6388) | Wear your spacesuit only when necessary. Not so necessary in the spaceship for example. | Not needed. |
 | Total mods in this category: | 1 | | |
 
 # Outposts
@@ -58,6 +60,13 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Astral Lounge Club Music Psytrance Replacer - Tool Assisted Monkeys.](https://www.nexusmods.com/starfield/mods/5047) | Nice new music for Astral Lounge. | Not needed. |
+| Total mods in this category: | 1 | | |
+
+# Textures
+
+| Number | Mod | Brief explanation | Spanish translation |
+|----------|----------|----------|----------|
+| 1 | [Improved NAT Lettering.](https://www.nexusmods.com/starfield/mods/4296) | Replacement for the low-res blocky lettering on the tram door, as well as the scrolling banner above 3 of the stations. | Not needed. |
 | Total mods in this category: | 1 | | |
 
 # Gadgets / enhancements
