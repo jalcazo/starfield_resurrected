@@ -67,7 +67,8 @@ uPlatformDynamicResolutionAutoScaleHeight=1080
 | Number | Mod | Brief explanation | Spanish translation |
 |----------|----------|----------|----------|
 | 1 | [Improved NAT Lettering.](https://www.nexusmods.com/starfield/mods/4296) | Replacement for the low-res blocky lettering on the tram door, as well as the scrolling banner above 3 of the stations. | Not needed. |
-| Total mods in this category: | 1 | | |
+| 2 | [Real Water HD 2.](https://www.nexusmods.com/starfield/mods/10289) | New water. | Not needed. |
+| Total mods in this category: | 2 | | |
 
 # Gadgets / enhancements
 
